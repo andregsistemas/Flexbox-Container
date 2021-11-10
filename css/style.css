@@ -3,7 +3,7 @@
     height: 600px;
     display: flex;
     /*
-        roe|row-reverse|column|column-reverse
+        row|row-reverse|column|column-reverse
     */
     flex-direction: row;
 

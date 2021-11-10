@@ -1,0 +1,16 @@
+#conteudo{
+    background-color: #DCDCDC;
+    height: 400px;
+    display: flex;
+    /*
+        roe|row-reverse|column|column-reverse
+    */
+    flex-direction: row;
+}
+.item{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: white;
+    border: 1px solid gray;
+}
